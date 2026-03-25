@@ -5,8 +5,8 @@ __pycache__/
 *.pyo
 .env
 
-# Data — za duże na GitHub
-data/
+data/raw/otodom_*.csv
+!data/raw/otodom_all.csv
 
 # IDE
 .idea/
