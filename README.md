@@ -2,7 +2,8 @@
 
 XGBoost regression model that predicts apartment prices across 15 Polish cities, trained on 28,310 listings scraped from Otodom.pl. Includes a full scraping pipeline, exploratory analysis, SHAP feature importance, and an interactive Streamlit app for price estimation and reverse lookup.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://housing-price-pl.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://housing-price-pl.streamlit.app/) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXcHTvFfS6U8HSlu_Sb0YZniJptyCxnr?usp=sharing)
+
 
 
 
