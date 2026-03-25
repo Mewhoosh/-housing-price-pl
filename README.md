@@ -92,7 +92,7 @@ Otodom.pl uses Next.js server-side rendering. Every listing page contains a `<sc
 
 ### SHAP — top features
 
-| Feature | Mean |SHAP| | Direction |
+| Feature | Mean SHAP | Direction |
 |---|---|---|
 | `area_m2` | highest | Larger area → higher price |
 | `neighborhood_enc` | high | Premium districts add significant value |
