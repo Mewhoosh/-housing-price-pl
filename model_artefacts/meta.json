@@ -1,0 +1,22 @@
+{
+  "features": [
+    "area_m2",
+    "rooms",
+    "floor",
+    "city_enc",
+    "neighborhood_enc",
+    "is_private_owner"
+  ],
+  "rooms_range": [
+    1,
+    5
+  ],
+  "floor_range": [
+    0,
+    9
+  ],
+  "area_range": [
+    15.0,
+    250.0
+  ]
+}
